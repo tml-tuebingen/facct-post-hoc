@@ -22,7 +22,7 @@ The code is organized with one jupyter notebook per dataset.
 
 *Reference Dataset Example*: [Jupyter Notebook](https://github.com/tml-tuebingen/facct-post-hoc/blob/main/reference-dataset.ipynb)
 
-## Required Packages:
+## Required Packages
 
 - xgboost https://github.com/dmlc/xgboost (Version: 1.5.1)
 - DiCE https://github.com/interpretml/DiCE (Version 0.7.2)
