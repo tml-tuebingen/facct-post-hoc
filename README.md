@@ -2,11 +2,25 @@
 
 This repository contains the code to reproduce the results in the FAccT 2022 paper *Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts* by Sebastian Bordt, Michèle Finck, Eric Raidl, and Ulrike von Luxburg.
 
-[FAccT'22 Paper](https://arxiv.org/abs/2201.10295) | [Video about the paper](https://www.youtube.com/watch?v=X_itngSLf5A)
+[FAccT'22 Paper](https://arxiv.org/abs/2201.10295) | [Video about the paper](https://www.youtube.com/watch?v=X_itngSLf5A) 
+
+<img src="https://github.com/tml-tuebingen/facct-post-hoc/blob/main/facct_logo.png" width="100"/>
 
 ## Overview
 
 The code is organized with one jupyter notebook per dataset. 
+
+*Adult-Income*: [Jupyter Notebook](https://github.com/tml-tuebingen/facct-post-hoc/blob/main/adult-income.ipynb)
+
+*Folktables ACSIncome*: [Jupyter Notebook](https://github.com/tml-tuebingen/facct-post-hoc/blob/main/folktables.ipynb)
+
+*German Credit*: [Jupyter Notebook](https://github.com/tml-tuebingen/facct-post-hoc/blob/main/german-credit.ipynb)
+
+*UCI Diabetes*: [Jupyter Notebook](https://github.com/tml-tuebingen/facct-post-hoc/blob/main/uci-diabetes.ipynb)
+
+*UCI Wisconsin Breast Cancer*: [Jupyter Notebook](https://github.com/tml-tuebingen/facct-post-hoc/blob/main/uci-cancer.ipynb)
+
+*Reference Dataset Example*: [Jupyter Notebook](https://github.com/tml-tuebingen/facct-post-hoc/blob/main/reference-dataset.ipynb)
 
 ## Required Packages:
 
